@@ -1,0 +1,44 @@
+form {
+    margin-left: 50%;
+    margin-top: 20%;
+    border-radius: 20px;
+}
+
+.button {
+    width: 60px;
+    text-align: center;
+    font-family: System, sans-serif;
+    font-size: 100%;
+}
+
+.affiche {
+    width: 100%;
+    text-align: right;
+    font-family: System, sans-serif;
+    font-size: 100%;
+}
+
+body {
+    background-color: #FFFFE0;
+    color: #000000;
+}
+
+table {
+    border: 5;
+}
+
+table tr td {
+    background-color: #C0C0C0;
+}
+
+table tr td {
+    background-color: #E0E0E0;
+}
+
+table tr td input {
+    text-align: right;
+}
+
+table tr td table {
+    border: 0;
+}
